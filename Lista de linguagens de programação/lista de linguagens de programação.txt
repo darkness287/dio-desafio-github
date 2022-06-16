@@ -1,0 +1,10 @@
+1. Linguagem Python
+2. Linguagem JavaScript (JS)
+3. Linguagem Java
+4. Linguagem TypeScript
+5. Linguagem Go
+6. Linguagem C++
+7. Linguagem Ruby
+8. Linguagem PHP
+9. Linguagem C Sharp
+10. Linguagem C
